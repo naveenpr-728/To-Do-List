@@ -10,15 +10,10 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 - 💾 Stores tasks in `localStorage`
 - 📱 Responsive design for mobile and desktop
 
-## 📸 Preview
-
-![To-Do List Preview](preview.png)
-
 ## 🛠️ Built With
 
 - HTML5
-- CSS3 (Flexbox/Grid)
-- Vanilla JavaScript (ES6)
+- CSS3
+-  JavaScript (ES6)
 
-## 📂 Folder Structure
 
